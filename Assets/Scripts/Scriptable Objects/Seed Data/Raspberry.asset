@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77692b8c6388bbd429a5678a4270ff2e, type: 3}
+  m_Name: Raspberry
+  m_EditorClassIdentifier: 
+  seedName: Raspberry
+  description: A single raspberry is actually made up of around 100 tiny fruits knnown
+    as drupelets.
+  icon: {fileID: 21300000, guid: f2ca52ce16c557a4fb8fb4a7a611f101, type: 3}
+  model: {fileID: 0}
+  purchaseValue: 4500
+  saleValue: 65
+  purchased: 0
